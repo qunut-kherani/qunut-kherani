@@ -1,7 +1,8 @@
 # 💫 About Me:
 
-💻 Full-Stack Web Developer (React, Node.js, Firebase)
-🎯 Focused on real-world problem solving
+🤖 AI/ML Engineer
+💻 Full-Stack Developer
+🚀 Solving Real-World Problems Through Technology
 
 ---
 
